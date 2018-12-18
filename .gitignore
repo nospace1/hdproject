@@ -16,6 +16,11 @@
 
 # RStudio files
 .Rproj.user/
+.Rhistory/
+.RData/
+.Ruserdata/
+hdproject.Rproj/
+.gitignore/
 
 # produced vignettes
 vignettes/*.html
@@ -35,8 +40,9 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 .Rproj.user
+.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-r4issactoast.Rproj
+hdproject.Rproj
 .gitignore
