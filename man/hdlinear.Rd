@@ -26,6 +26,5 @@ library(rhdfs)
 hdfs.init()
 library(rmr2)
 rmr.options(backend = "hadoop")
-input <- to.dfs(data)
-hdlinear(y=5, x=c(7,11), input)
+hdlinear(y=5, x=c(7,11), bigdata)
 }
